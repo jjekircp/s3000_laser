@@ -2,8 +2,8 @@
 Changelog for package s3000_laser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2014-12-03)
+------------------
 * Added install targets to CMakeLists.txt
 * remove ~ files
 * Changed back to s3000_laser
