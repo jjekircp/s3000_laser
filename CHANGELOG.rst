@@ -2,8 +2,8 @@
 Changelog for package s3000_laser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2014-12-05)
+------------------
 * Bumping version so apt prefers this package over the officially released one
 * Contributors: Jonathan Jekir
 
