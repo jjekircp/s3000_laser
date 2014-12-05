@@ -2,6 +2,11 @@
 Changelog for package s3000_laser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bumping version so apt prefers this package over the officially released one
+* Contributors: Jonathan Jekir
+
 0.0.2 (2014-12-03)
 ------------------
 * Added install targets to CMakeLists.txt
